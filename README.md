@@ -44,4 +44,4 @@ El programa ofrece las siguientes funcionalidades:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia MIT
